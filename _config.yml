@@ -27,22 +27,22 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : TAREQUZZAMAN KHAN
   image             : https://i.ibb.co/3TLBMGf/287589881-800546334265195-4797758300257457207-n.jpg
-  behance           : your_username
+#  behance           : your_username
 # dribbble          : your_username
   email             : tareqcse12@gmail.com
-  facebook          : https://www.facebook.com/tarequzzaman.khan.cse12/
-  github            : https://github.com/Tarequzzaman
+  facebook          : tarequzzaman.khan.cse12/
+  github            : Tarequzzaman
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : https://www.linkedin.com/in/tarequzzaman-khan-195277143/
-  medium            : your_username
+  linkedin          : tarequzzaman-khan-195277143/
+#  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
-# stackoverflow     : your_user_id
+  stackoverflow     : users/13298339/tarequzzaman-khan
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+  # twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
