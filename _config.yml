@@ -1,9 +1,10 @@
 ### Site Settings ###
-title               : Tareq's 
+title               : 
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      Tarequzzaman Khan <br>
+                      Sr. Software Engineer <br>
+                      W3 Engineers Limited 
+
 baseurl             : "/"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : tarquzzaman/tarquzzaman.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -39,7 +40,7 @@ author:
 #  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
-  stackoverflow     : users/13298339/tarequzzaman-khan
+#  stackoverflow     : users/13298339/tarequzzaman-khan
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
   # twitter           : your_username
