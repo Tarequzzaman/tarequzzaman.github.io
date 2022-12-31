@@ -1,17 +1,33 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Sr. Software Engineer (Data Science Team), W3 Engineers Limited, Dhaka
+  from: August 2022
+  to: Present
+  description:  1. Collecting data from different Travel Partners,  Google Analytics (Reporting API, User Activity API) , Google Ads(Ads API & Ads Script) advertisement data and ingesting these data into a common wirehouse.<br>Used Tech- Apache Airflow , Python, Django cron<br>
+                2. Writing cron jobs(ETL process) for collecting data from different sources and seeding.<br>
+                3. Visualizing different business metric as par as company requirement into BI tool<br>Used Tech - Apache Superset<br>
+              
+- title: Sr. Software Engineer, Maya Digital Health Pte. Ltd, Dhaka
+  from: September 2019
+  to: July 2022
+  description:  1. Working closely with the Product team, business analysts, development teams, and infrastructure specialists is to deliver high-availability solutions. <br>
+                2. Design & build a notification panel that can send 3.7M+ push notifications within 15 minutes (Celery, Python, Go, mqtt producer & consumer)<br>
+                3. Design and Implement Conversational AI using Rasa framework for self-care of Maya healthcare, which including Mental health Check (Depression, Anxiety & Sadness), COVID-19 check, Stomach ache <br>
+                4. REST API design, integration & development using Fast API, Django, Laravel<br>
+                5. Continuously modifying ML, DL, transformer-based technology for enhancing Maya NLP engine(Auto answering system, Auto Refer, Spam filter)<br>
+                6. System Design & implementation backend of Instant video calling application & Web video call (twilio Api)<br>
+                7. Design & develop  medicine delivery system <br>
+                8. Integration of different partners to Maya platform <br>
+                9. Develop an NER based spaCy model which can grab date(Any format) from bangla Sentences <br>Example input - আজ ২৬শে মার্চ বাংলাদেশের স্বাধীনতা দিবস<br>Output-[26-03-2022]<br>
+                10. Mentor guide & manage Maya Data Science team<br>
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Jr. Software Engineer (Machine Learning), Maya Digital Health Pte. Ltd, Dhaka
+  from: March 2018
+  to: Sep 2019
+  description:  1. Development of spam filter, Auto-answering system etc.<br>
+                2. Constantly design and implement different ML & DL algorithm for Maya NLP Engine.<br>
+                3. Clustering data, analysis Data , EDA <br>
+                4. Development of Chatbot for Maya facebook, WAP, and web platform<br>
+                5. Development of personalized system based on user data <br>
+                7. Rest API development using Django & Laravel <br>
+                8. Mentor of a Data annotator team 
+
+
