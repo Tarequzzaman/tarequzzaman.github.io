@@ -9,7 +9,7 @@ weight: 3
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
 
-I am currenty working as a Sr. Software Engineer at W3 Engineers Limited. Currently I am woking here as core Data Engineering task like Data wirehousing, building data pipeline and ETL process. 
+I am working as a Sr. Software Engineer at W3 Engineers Limited. My day to day works includes core Data Engineering task like Data wirehousing, building data pipeline and ETL process. 
 
 As a Software engineer I always prefer to write efficient and scalable codes. I have almost 5 years of experience in the field of software Engineering, Data analytics, Data Visualization and Data Engineering (In both Healthcare industry & Travel Agency). I possess diverse experience in planning & executing multiple projects that solve various business problems and deliver excellent results.
 
