@@ -1,5 +1,5 @@
 ---
-title: Benifit & Drawback of Using Apache Superset as Data visualization tools
+title: Benifit & Drawback Apache Superset
 tags: [Apache Superset, Data Visualization, Open Source]
 style: fill
 color: info
@@ -39,11 +39,8 @@ If anyone have data engineering knowledge can easily install the python library 
 - **Community and Ecosystem:** Superset is an Apache Incubator Project and has a large and active community of users and contributors, which means you can find a lot of tutorials, documentation, and support online.
 
 In summary, Apache Superset is a powerful, user-friendly, and flexible data visualization tool that is well-suited for a wide range of use cases, from data exploration and analysis to building interactive dashboards and reports.
-
 <br>
 <br>
-
-
 ## Drawback of Apache Superset: 
 
 - **Limited data transformation capabilities:** While Superset allows you to connect to a wide range of data sources and explore your data through filters and aggregations, it has limited capabilities for data transformation, such as cleaning, joining, and reshaping data.
