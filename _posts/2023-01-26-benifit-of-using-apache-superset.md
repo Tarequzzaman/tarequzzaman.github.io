@@ -7,7 +7,9 @@ comments: true
 description: Superset is fast, lightweight, intuitive, and loaded with options that make it easy for users of all skill sets to explore and visualize their data, from simple line charts to highly detailed geospatial charts.
 ---
 
-
+<br>
+<br>
+<br>
 Recently I have started using Apache superset as data visualization tool. In this article I will share my experience with apache superset.  
 
 ![image](https://raw.githubusercontent.com/apache/superset/master/superset-frontend/src/assets/branding/superset-logo-horiz-apache.png)
@@ -16,7 +18,8 @@ Recently I have started using Apache superset as data visualization tool. In thi
 
 
 Apache Superset is a opensource data visualization tool with a simple interface, easy to use, wide range of datasource support that allows the users to create and share dashboards. This tool is highly dependent on sql. So for using this tool, sql knowledge is must. 
-
+<br>
+<br>
 ### Benifit of Apache superset: 
 
 - **Intuitive user interface:** Superset provides an easy-to-use, drag-and-drop interface for creating and exploring visualizations. 
@@ -36,6 +39,9 @@ If anyone have data engineering knowledge can easily install the python library 
 - **Community and Ecosystem:** Superset is an Apache Incubator Project and has a large and active community of users and contributors, which means you can find a lot of tutorials, documentation, and support online.
 
 In summary, Apache Superset is a powerful, user-friendly, and flexible data visualization tool that is well-suited for a wide range of use cases, from data exploration and analysis to building interactive dashboards and reports.
+
+<br>
+<br>
 
 
 ## Drawback of Apache Superset: 
