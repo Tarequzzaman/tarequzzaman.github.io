@@ -2,7 +2,7 @@
 title: Benifit & Drawback of Using Apache Superset as Data visualization tools
 tags: [Apache Superset, Data Visualization, Open Source]
 style: fill
-color: secondary
+color: info
 comments: true
 description: Superset is fast, lightweight, intuitive, and loaded with options that make it easy for users of all skill sets to explore and visualize their data, from simple line charts to highly detailed geospatial charts.
 ---
